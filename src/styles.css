@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form {
+  margin: 10px;
+  padding: 2px;
+}
+.heading {
+  text-decoration: underline;
+  color: rgb(206, 142, 24);
+}
